@@ -1,10 +1,10 @@
-// S C R I P T  O R I  B Y  Bochilgaming 🔭
-// Ditulis Ulang Oleh ImYanXiao
+// S C R I P T  O R I  B Y  BochilAdam 🔭
+// Ditulis Ulang Oleh ImDanzBot
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
 // • Allah SWT
-// • Nurutomo
+// • BochilAdam
 // • Bochilgaming
 // • Rominaru
 // • Kannachann
@@ -47,30 +47,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Xiao_yan_21' //Link Instagrammu
-global.sgh = 'https://github.com/ImYanXiao' //Link Githubmu
+global.sig = '_' //Link Instagrammu
+global.sgh = 'https://github.com/DhaniBot' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/DyBMXDw1IshFM9z0ZHZNlR'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
-global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
+global.pdana = '089523573658' //Nomor Danamu
+global.ppulsa = '089523573658' //Nomor SimCard Yang Kamu Pake
+global.psaweria = '_' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281231079387' //Nomor Bot
-global.nomorown = '6285736178354' //Nomor Owner
-global.namebot = 'Elaina BOT' //Nama Bot
-global.nameown = '𝓧𝓲𝓪𝓸 - 𝓨𝓪𝓷' // Nama Owner
+global.nomorbot = '6289523573658' //Nomor Bot
+global.nomorown = '6289523573658' //Nomor Owner
+global.namebot = 'DANZ BOT' //Nama Bot
+global.nameown = 'Bochil- Adam' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285736178354', '❦ 𝚇 𝚒 𝚊 𝚘 - 𝚈𝚊𝚗? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6289523573658', '❦ D A N Z - B O T? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
+global.mods = [089523573658] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
@@ -79,22 +79,22 @@ global.xkey = 'APIKEYMU'
 /*============== API ==============*/
 global.APIs = { // API Prefix
   // name: 'https://website'
-  nrtm: 'https://nurutomo.herokuapp.com',
+  nrtm: '_',
   xteam: 'https://api.xteam.xyz',
-  zahir: 'https://zahirr-web.herokuapp.com',
+  zahir: '_',
   lol: 'https://api.lolhuman.xyz',
-  ana: 'https://anabotofc.herokuapp.com/',
-  adiisus: 'https://adiixyzapi.herokuapp.com',
+  ana: '_',
+  adiisus: '_',
   violetics : 'https://violetics.pw', 
   males : 'https://malesin.xyz'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'APIKEYMU',
-  'https://anabotofc.herokuapp.com/': 'AnaBot',
+  '_': 'APIKEYMU',
+  '_': 'DanzBot',
   'https://api.lolhuman.xyz': 'Apikeymu',
-  'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://violetics.pw': 'beta'
+  '_': 'BochilAdam',
+  'https://violetics.pw': '_'
 }
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
